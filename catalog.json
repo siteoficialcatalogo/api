@@ -1,0 +1,36 @@
+{
+  "catalog": {
+    "category": [
+      {
+        "title": "Pele",
+        "icon": "fa-hand-heart",
+        "products": [
+          {
+            "url": "https://ev.braip.com/produtos/loja/pro6y15r",
+            "title": "New Detox Gotas",
+            "description": "Ajuda na perda de peso e redução de medidas sem efeitos colaterais, eliminando gordura profunda do corpo.",
+            "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+            "size": "height: 100%",
+            "filter": "hue-rotate(15deg) saturate(200%) brightness(200%) contrast(150%) blur(64px)",
+            "opacity": "70%"
+          }
+        ]
+      },
+      {
+        "title": "Perda de Peso",
+        "icon": "fa-weight",
+        "products": [
+          {
+            "url": "https://ev.braip.com/produtos/loja/pro6y15r",
+            "title": "New Detox Gotas",
+            "description": "Ajuda na perda de peso e redução de medidas sem efeitos colaterais, eliminando gordura profunda do corpo.",
+            "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+            "size": "height: 100%",
+            "filter": "hue-rotate(15deg) saturate(200%) brightness(200%) contrast(150%) blur(64px)",
+            "opacity": "70%"
+          }
+        ]
+      }
+    ]
+  }
+}

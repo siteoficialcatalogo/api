@@ -70,6 +70,54 @@
             "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
             "filter": "hue-rotate(330deg) saturate(200%) brightness(0.7) contrast(1.1) blur(64px)",
             "opacity": "125%"
+          },
+          {
+            "url": "https://example.com/product11",
+            "title": "Category 7",
+            "description": "Description for Product 11.",
+            "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+            "filter": "hue-rotate(300deg) saturate(200%) brightness(0.8) contrast(1.2) blur(60px)",
+            "opacity": "120%"
+          },
+          {
+            "url": "https://example.com/product12",
+            "title": "Category 7",
+            "description": "Description for Product 12.",
+            "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+            "filter": "hue-rotate(330deg) saturate(200%) brightness(0.7) contrast(1.1) blur(64px)",
+            "opacity": "125%"
+          },
+          {
+            "url": "https://example.com/product11",
+            "title": "Category 7",
+            "description": "Description for Product 11.",
+            "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+            "filter": "hue-rotate(300deg) saturate(200%) brightness(0.8) contrast(1.2) blur(60px)",
+            "opacity": "120%"
+          },
+          {
+            "url": "https://example.com/product12",
+            "title": "Category 7",
+            "description": "Description for Product 12.",
+            "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+            "filter": "hue-rotate(330deg) saturate(200%) brightness(0.7) contrast(1.1) blur(64px)",
+            "opacity": "125%"
+          },
+          {
+            "url": "https://example.com/product11",
+            "title": "Category 7",
+            "description": "Description for Product 11.",
+            "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+            "filter": "hue-rotate(300deg) saturate(200%) brightness(0.8) contrast(1.2) blur(60px)",
+            "opacity": "120%"
+          },
+          {
+            "url": "https://example.com/product12",
+            "title": "Category 7",
+            "description": "Description for Product 12.",
+            "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+            "filter": "hue-rotate(330deg) saturate(200%) brightness(0.7) contrast(1.1) blur(64px)",
+            "opacity": "125%"
           }
         ]
       }

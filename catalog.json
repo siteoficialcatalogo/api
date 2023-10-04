@@ -43,7 +43,7 @@
           },
           {
             "url": "https://example.com/product4",
-            "title": "Category 3",
+            "title": "Category 3 - 2",
             "description": "Description for Product 4.",
             "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
             "filter": "hue-rotate(90deg) saturate(200%) brightness(1.6) contrast(2.0) blur(28px)",

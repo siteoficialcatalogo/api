@@ -22,7 +22,7 @@
                   "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
                   "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
                   "opacity": "70%"
-               },
+               }
             ]
          },
          {

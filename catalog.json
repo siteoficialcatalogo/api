@@ -30,6 +30,61 @@
                   "opacity": "80%"
                }
             ]
+         },
+         {
+            "title": "Diabetes",
+            "icon": "fas fa-raindrops",
+            "products": []
+         },
+         {
+            "title": "Dores",
+            "icon": "fas fa-comment-medical",
+            "products": []
+         },
+         {
+            "title": "Visão",
+            "icon": "fas fa-eye",
+            "products": []
+         },
+         {
+            "title": "Próstata",
+            "icon": "fas fa-glasses",
+            "products": []
+         },
+         {
+            "title": "Reabilitação",
+            "icon": "fas fa-smoking-ban",
+            "products": []
+         },
+         {
+            "title": "Fígado",
+            "icon": "far fa-steak",
+            "products": []
+         },
+         {
+            "title": "Cansaço",
+            "icon": "fas fa-bolt",
+            "products": []
+         },
+         {
+            "title": "Digestão",
+            "icon": "fas fa-carrot",
+            "products": []
+         },
+         {
+            "title": "Menopausa",
+            "icon": "fas fa-female",
+            "products": []
+         },
+         {
+            "title": "Cabelo",
+            "icon": "fas fa-cut",
+            "products": []
+         },
+         {
+            "title": "Calvície",
+            "icon": "fas fa-head-side",
+            "products": []
          }
       ],
       "all": [
@@ -40,6 +95,50 @@
          {
             "category": "Perda de Peso",
             "title": "Perda de Peso"
+         },
+         {
+            "category": "Diabetes",
+            "title": "Diabetes"
+         },
+         {
+            "category": "Dores",
+            "title": "Dores"
+         },
+         {
+            "category": "Visão",
+            "title": "Visão"
+         },
+         {
+            "category": "Próstata",
+            "title": "Próstata"
+         },
+         {
+            "category": "Reabilitação",
+            "title": "Reabilitação"
+         },
+         {
+            "category": "Fígado",
+            "title": "Fígado"
+         },
+         {
+            "category": "Cansaço",
+            "title": "Cansaço"
+         },
+         {
+            "category": "Digestão",
+            "title": "Digestão"
+         },
+         {
+            "category": "Menopausa",
+            "title": "Menopausa"
+         },
+         {
+            "category": "Cabelo",
+            "title": "Cabelo"
+         },
+         {
+            "category": "Calvície",
+            "title": "Calvície"
          }
       ]
    }

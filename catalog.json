@@ -15,11 +15,20 @@
                   "opacity": "70%"
                },
                {
-                  "url": "https://ev.braip.com/produtos/loja/pro6y15r",
-                  "title": "demo",
-                  "description": "Ajuda na perda de peso e redução de medidas sem efeitos colaterais, eliminando gordura profunda do corpo.",
-                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
-                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+                  "url": "http://mon.net.br/2s9ch5",
+                  "title": "Regenere Drops",
+                  "description": "Um serum que revitaliza a pele, reduz manchas, e combate os sinais de envelhecimento com uma fórmula de alta tecnologia.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/651ed4139a335_41-RegenereDrops.jpg",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/651ed43509248_41-RegenereDrops.jpg",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "https://ev.braip.com/pv/liplrmj2/afi9eeq363",
+                  "title": "Trans Resveratrol",
+                  "description": "Um serum que restaura a juventude da pele, proporcionando firmeza, hidratação e redução de rugas.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/651ed51a2d5f6_07-transresveratrol.jpg",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/651ed4f921059_07-transresveratrol.jpg",
                   "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
                   "opacity": "70%"
                }

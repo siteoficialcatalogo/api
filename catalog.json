@@ -13,7 +13,16 @@
                   "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
                   "filter": "hue-rotate(0deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
                   "opacity": "70%"
-               }
+               },
+               {
+                  "url": "https://ev.braip.com/produtos/loja/pro6y15r",
+                  "title": "demo",
+                  "description": "Ajuda na perda de peso e redução de medidas sem efeitos colaterais, eliminando gordura profunda do corpo.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
             ]
          },
          {

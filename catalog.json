@@ -94,6 +94,15 @@
                   "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e971d947cd_35_-_Hialuroni_Caps__2_-removebg-preview.pngg",
                   "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
                   "opacity": "70%"
+               },
+	{
+                  "url": "http://mon.net.br/2s9ftd",
+                  "title": "100Herpes",
+                  "description": "O 100Herpes é um tratamento abrangente e inovador que fortalece o sistema imunológico, acelera a cicatrização e previne infecções futuras do herpes.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e998a00cc8_1_-_100Herpes-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e997e94909_1_-_100Herpes-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
                }
             ]
          },

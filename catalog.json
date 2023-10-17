@@ -10,7 +10,7 @@
                   "title": "Rosa Amazônica",
                   "description": "Um serum multifuncional que proporciona redução de rugas, firmeza, hidratação, clareamento da pele e alívio de irritações..",
                   "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/651ecd561acac_01-RosaAmazonica.jpg",
-                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/651ecd561acac_01-RosaAmazonica.jpg",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/651ee43a95187_01-RosaAmazonica.png",
                   "filter": "hue-rotate(0deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
                   "opacity": "70%"
                },
@@ -31,22 +31,72 @@
                   "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/651ed4f921059_07-transresveratrol.jpg",
                   "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
                   "opacity": "70%"
-               }
+               },
+	{
+                  "url": "https://ev.braip.com/ref?pv=prow6v6n&af=afie815m8",
+                  "title": "Sinata Gotas",
+                  "description": "Um serum avançado que combate rugas, flacidez e promove a elasticidade e hidratação da pele, proporcionando um aspecto mais jovem e firme.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e920d9da66_08_-_Sinata_gotas-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e922d81edb_08_-_Sinata_gotas-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "https://ev.braip.com/pv/lip5r1o3/afixjj216e",
+                  "title": "Hidra Pele",
+                  "description": "Este serum revitaliza a pele, reduz rugas, manchas e melhora a firmeza, proporcionando uma aparência mais jovem e saudável.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e93355f1f5_10_-hidra_pele-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e93253144a_10_-hidra_pele-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "https://ev.braip.com/pv/lipzy75w/afixjj216e",
+                  "title": "Skin Gota",
+                  "description": "Um serum que combate rugas, manchas e oleosidade, promovendo uma pele mais suave, jovem e firme.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9412262f4_12_-_skin_gota-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e941f6bcd0_12_-_skin_gota-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "https://ev.braip.com/ref?pv=prorg6n7&af=afie0095dp",
+                  "title": "Revera Caps",
+                  "description": "Um serum de rejuvenescimento com colágeno de nanotecnologia americana para uma pele firme, uniforme e radiante.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9515c8c1d_15_-_revera_caps-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e94c37799b_15_-_revera_caps-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "https://ev.braip.com/pv/lip5rn02/afi8vd0j3",
+                  "title": "ReveraVit",
+                  "description": "Um serum que protege, hidrata e rejuvenesce a pele, prolongando a expectativa de vida.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e95da40649_24_-_reveravit-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e95e7388de_24_-_reveravit-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "https://ev.braip.com/ref?pv=prozdv48&af=afidnnqp2p",
+                  "title": "Collagen Vitta",
+                  "description": "Este produto ajuda a rejuvenescer a pele, reduzindo rugas, celulites e flacidez.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9664bf4bf_30-collagenvitta.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9658e5dc4_30-collagenvitta.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "https://ev.braip.com/pv/lip3pjlo/afimm98nq",
+                  "title": "Hialuroni Caps",
+                  "description": "Um serum que revitaliza a pele, reduz rugas e linhas de expressão, proporcionando hidratação e firmeza.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e96f553ee3_35_-_Hialuroni_Caps__2_-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e971d947cd_35_-_Hialuroni_Caps__2_-removebg-preview.pngg",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
             ]
-         },
-         {
-            "title": "Perda de Peso",
-            "icon": "fa-weight",
-            "products": [
-               {
-                  "url": "https://ev.braip.com/produtos/loja/pro6y15r",
-                  "title": "Perda de Peso",
-                  "description": "Ajuda na perda de peso e redução de medidas sem efeitos colaterais, eliminando gordura profunda do corpo.",
-                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
-                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/650b3f0403fbb_GinecomenBanner1.png",
-                  "filter": "hue-rotate(30deg) saturate(200%) brightness(1.8) contrast(2.2) blur(32px)",
-                  "opacity": "80%"
-               }
+         }
             ]
          },
          {

@@ -5,7 +5,7 @@
             "title": "Pele",
             "icon": "fa-hand-heart",
             "products": [
-               {
+        {
                   "url": "https://ev.braip.com/pv/lipdy0g9/afi26jzxx",
                   "title": "Rosa Amazônica",
                   "description": "Um serum multifuncional que proporciona redução de rugas, firmeza, hidratação, clareamento da pele e alívio de irritações..",
@@ -13,8 +13,8 @@
                   "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/651ee43a95187_01-RosaAmazonica.png",
                   "filter": "hue-rotate(0deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
                   "opacity": "70%"
-               },
-               {
+        	},
+        {
                   "url": "http://mon.net.br/2s9ch5",
                   "title": "Regenere Drops",
                   "description": "Um serum que revitaliza a pele, reduz manchas, e combate os sinais de envelhecimento com uma fórmula de alta tecnologia.",
@@ -101,6 +101,78 @@
                   "description": "O 100Herpes é um tratamento abrangente e inovador que fortalece o sistema imunológico, acelera a cicatrização e previne infecções futuras do herpes.",
                   "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e998a00cc8_1_-_100Herpes-removebg-preview.png",
                   "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e997e94909_1_-_100Herpes-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "http://mon.net.br/2sanin",
+                  "title": "Beauty Clean",
+                  "description": "O Beauty Clean é um creme dermatologicamente testado e aprovado pela ANVISA, projetado para tratar manchas e melasma, proporcionando resultados visíveis desde a primeira aplicação.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9c7217a63_3_-_Beauty_Clean-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9c7ec35f3_3_-_Beauty_Clean-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "http://mon.net.br/2o6rp1",
+                  "title": "CicatriBem",
+                  "description": "Um produto que melhora a aparência das estrias e promove autoconfiança.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9d26682c3_7_-_CICATRIBEM-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9d1a7923b_7_-_CICATRIBEM-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "http://mon.net.br/2s9ele",
+                  "title": "Creme TOE",
+                  "description": "Um tratamento inovador para estrias com abordagem ortomolecular.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9da04f772_8_-_Creme_TOE-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9dae3f9ab_8_-_Creme_TOE-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "http://mon.net.br/2sap3f",
+                  "title": "Dream Colágeno",
+                  "description": "Um serum que rejuvenesce e melhora diversos sinais de envelhecimento da pele sem necessidade de procedimentos invasivos.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9e412558b_10_-_Dream_Colgeno-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9e363f3b3_10_-_Dream_Colgeno-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "http://mon.net.br/2s9df8",
+                  "title": "Dream Colágeno Solúvel",
+                  "description": "Um serum para combater manchas, oleosidade e envelhecimento precoce.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9eff5b1cd_11_-_Dream_Colgeno_Solvel-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9f0a37eac_11_-_Dream_Colgeno_Solvel-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "http://mon.net.br/2sapn1",
+                  "title": "EstriGold",
+                  "description": "Um creme corporal que combate estrias e celulites, promovendo uma pele deslumbrante.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9f99e7532_14_-_EstriGold-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652e9f8f5d6d1_14_-_EstriGold-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "http://mon.net.br/29gr47",
+                  "title": "Hialutina",
+                  "description": "Um serum multifuncional que combate os sinais de envelhecimento e promove a saúde da pele, cabelo e unhas.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652ea00f78ff5_22_-_HIALUTINA-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652ea01ac4838_22_-_HIALUTINA-removebg-preview.png",
+                  "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
+                  "opacity": "70%"
+               },
+	{
+                  "url": "http://mon.net.br/2savo5",
+                  "title": "Vitta Hyaluronic",
+                  "description": "Um colágeno inovador e eficaz para a saúde da pele e do corpo.",
+                  "image": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652ea0a954e57_55_-_Vitta_Hyaluronic-removebg-preview.png",
+                  "background": "https://d1yei2z3i6k35z.cloudfront.net/5030167/652ea09e15924_55_-_Vitta_Hyaluronic-removebg-preview.png",
                   "filter": "hue-rotate(360deg) saturate(200%) brightness(1.5) contrast(2) blur(64px)",
                   "opacity": "70%"
                }
